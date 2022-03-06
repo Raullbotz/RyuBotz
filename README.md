@@ -27,18 +27,18 @@
 
 ```ts
 {
-"OwnerNumber": "6283891921787",
-"Owner2": "6281243045266", 
-"OwnerName": "Ryuukaa",
-"OwnerNamee": "RyuukaAa", 
-"BotName": "RyuBotz",
-"Fake": "RyuBotz🕊",
+"OwnerNumber": "6283843275967",
+"Owner2": "60149431385", 
+"OwnerName": "PutraXD",
+"OwnerNamee": "LanXzy", 
+"BotName": "Raull Botz",
+"Fake": "Raull Botz🕊",
 "Lolkey": "YOUR_APIKEY", 
 "DhaKey": "NisaaCantik", 
-"Dana": "62xxxx", 
-"Gopay": "62xxxx", 
-"Ovo": "62xxxx",
-"yt": "https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA", 
+"Dana": "6283843275967", 
+"Gopay": "62895390407770", 
+"Ovo": "6283843275967",
+"yt": "https://youtube.com/channel/UChSD-U08v05QD9BUIwt0_ZA", 
 "gamewaktu": 60,
 "gcount": 30
 }
@@ -66,8 +66,8 @@ Off in web nya
 
 ## ```GROUP SUPPORT```
 
-- [`Ryuuka Bot 1`](https://chat.whatsapp.com/LtlEVtptLLBIGcvgS7kzmS)
-- [`Ryuuka Bot 2`](https://chat.whatsapp.com/KYFdPsjHKIr5ToVIqOAunE)
+- [`Raull Botz 1`](https://chat.whatsapp.com/KlZz8Vnxt1Y1PN5RjpPHVL)
+- [`Raull Botz 2`](https://chat.whatsapp.com/CwnVqqHBPV81yKYebnnEii)
 
 <h3 align="center">Made by :</h3>
 <p align="center">
@@ -84,4 +84,4 @@ Off in web nya
 - Ryuuka Team
 - Siegrin
 - BearKey
-- Lol-Human
+- LanXzy & LynXzy
